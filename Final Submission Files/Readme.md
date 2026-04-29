@@ -13,6 +13,7 @@ Old dataset → reshaped encoded features (60,3)
 New dataset → one-hot encoded sequences (400,4)
 
 Dataset Links:
+
 Encoded DNA Dataset: https://www.kaggle.com/datasets/muhammetvarl/splicejunction-gene-sequences-dataset
 Raw DNA Sequence Dataset: https://huggingface.co/datasets/dnagpt/dna_splice_site_prediction
 
